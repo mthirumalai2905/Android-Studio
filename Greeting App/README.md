@@ -15,10 +15,10 @@ Android Studio
 Java
 XML
 Authors
-[Your Name]
+[Thiru]
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Acknowledgments
-This project was created as part of [insert course or program name].
-Thanks to [insert any contributors or resources used].
+This project was created as part of [Android Development].
+Thanks to [Udemy].
